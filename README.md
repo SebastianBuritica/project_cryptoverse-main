@@ -2,7 +2,8 @@
 
 <<<<<<< HEAD
 =======
-![Uploading Screenshot 2022-07-29 at 15-55-57 Cryptoverse.png…]()
+
+![Screenshot 2022-07-29 at 15-55-07 Cryptoverse](https://user-images.githubusercontent.com/93333842/181842918-1c7f790f-bb92-4ac5-a43b-92d1ba8276c6.png)
 
 
 
