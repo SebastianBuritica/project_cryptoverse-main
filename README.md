@@ -2,7 +2,9 @@
 
 <<<<<<< HEAD
 =======
-![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
+![Uploading Screenshot 2022-07-29 at 15-55-57 Cryptoverse.png…]()
+
+
 
 # CRYPTOVERSE PROJECT
 
