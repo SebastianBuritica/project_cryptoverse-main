@@ -2,6 +2,9 @@
 
 ![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
 
+#CRYPTOVERSE PROJECT
+This project was created using react.js and  multiple APIs powered by https://rapidapi.com, the design was created with css.
+
 ## Available Scripts
 
 In the project directory, you can run:
